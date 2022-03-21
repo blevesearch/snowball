@@ -1,7 +1,7 @@
 package norwegian
 
 import (
-	"github.com/kljensen/snowball/snowballword"
+	"github.com/blevesearch/snowball/snowballword"
 )
 
 // Step 1 is the stemming of various endings found in

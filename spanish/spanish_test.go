@@ -1,7 +1,7 @@
 package spanish
 
 import (
-	"github.com/kljensen/snowball/romance"
+	"github.com/blevesearch/snowball/romance"
 	"testing"
 )
 

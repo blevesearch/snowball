@@ -1,7 +1,7 @@
 package french
 
 import (
-	"github.com/kljensen/snowball/snowballword"
+	"github.com/blevesearch/snowball/snowballword"
 )
 
 // Step 2b is the removal of Verb suffixes in RV

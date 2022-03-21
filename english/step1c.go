@@ -1,7 +1,7 @@
 package english
 
 import (
-	"github.com/kljensen/snowball/snowballword"
+	"github.com/blevesearch/snowball/snowballword"
 )
 
 // Step 1c is the normalization of various "y" endings.

@@ -3,12 +3,12 @@ package snowball
 import (
 	"fmt"
 
-	"github.com/kljensen/snowball/english"
-	"github.com/kljensen/snowball/french"
-	"github.com/kljensen/snowball/norwegian"
-	"github.com/kljensen/snowball/russian"
-	"github.com/kljensen/snowball/spanish"
-	"github.com/kljensen/snowball/swedish"
+	"github.com/blevesearch/snowball/english"
+	"github.com/blevesearch/snowball/french"
+	"github.com/blevesearch/snowball/norwegian"
+	"github.com/blevesearch/snowball/russian"
+	"github.com/blevesearch/snowball/spanish"
+	"github.com/blevesearch/snowball/swedish"
 )
 
 const (
